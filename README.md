@@ -6,4 +6,4 @@
 4. Set the path of day.csv data in your computer (in line 7) 
 
 ## Run-streamlit-app
-streamlit run <path> of file dashboard.py
+streamlit run  <(path of file dashboard.py)>
