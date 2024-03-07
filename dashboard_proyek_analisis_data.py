@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 #Berkas data day.csv
-day_df = pd.read_csv("C:/Users/Arya Revansyah/Documents/BANGKIT/MATERI/MATERI INTI/3. BELAJAR ANALISIS DATA DENGAN PYTHON/PROYEK ANALISIS DATA/Proyek_Analisis_Data/day.csv")
+day_df = pd.read_csv("<path>")
 
 #Datetime untuk data
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
