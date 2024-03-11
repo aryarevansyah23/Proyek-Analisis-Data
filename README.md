@@ -5,5 +5,4 @@
 3. Open the file of dashboard.py (I used VSCODE) 
 
 ## Run-streamlit-app
-1. Copy path of dashboard.py from your computer
-2. streamlit run <(path)>
+streamlit run dashboard\dashboard.py
